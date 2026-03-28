@@ -1,6 +1,12 @@
 # 👋 Hey, I'm Utkarsh
 
-🚀 Full Stack Developer | Backend-focused | Building real-world web apps with Flask & AI
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused;Flask+%7C+APIs+%7C+AI+Enthusiast;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uttu4thecode&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -73,7 +79,9 @@
 
 ## ⚡ GitHub Stats
 
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=uttu4thecode\&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uttu4thecode&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
